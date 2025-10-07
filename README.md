@@ -173,30 +173,3 @@ src/
 # 构建并部署到 GitHub Pages
 pnpm deploy:gh-pages
 ```
-
-### 其他部署方式
-
-构建后的文件位于 `dist/` 目录，可以部署到任何静态文件服务器。
-
-## 🤝 贡献指南
-
-1. Fork 项目
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开 Pull Request
-
-## 📄 许可证
-
-本项目基于 MIT 许可证开源 - 查看 [LICENSE](LICENSE) 文件了解详情。
-
-## 📞 联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-- 创建 [Issue](https://github.com/pdsuwwz/vue-boilerplate-i18n/issues)
-- 发送邮件至: pdsu.wwz@foxmail.com
-
----
-
-⭐ 如果这个项目对你有帮助，请给它一个星标！
